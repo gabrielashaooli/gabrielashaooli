@@ -49,7 +49,7 @@ I'm always learning and building — from AR apps to machine learning models and
 ### 📈 Featured Projects
 
 - 🧳 **Travel Web App**  
-  Web platform for booking and managing trips, built with Java, PHP and MySQL.
+  Web platform for booking and managing trips, built with HTML, CSS, JavaScript, PHP and MySQL.
 
 - 🩺 **MedTrust**  
   Simple platform for managing patient appointments, records, and access control.
