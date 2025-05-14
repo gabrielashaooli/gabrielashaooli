@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Data Intelligence & Cybersecurity Engineering student at Universidad Panamericana<br>
 💻 Passionate about data science, cybersecurity, and tech-for-good<br>
-📍 Based in Mexico | 🌎 Open to international opportunities
+📍 Mexico City
 </p>
 
 ---
