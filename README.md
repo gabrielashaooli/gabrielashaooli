@@ -61,6 +61,22 @@ I'm always learning and building — from AR apps to machine learning models and
   Educational tools and simulations for computer architecture using assembly (e.g., TienditaUP, HexConverter).
 
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielashaooli&show_icons=true&theme=default" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielashaooli&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielashaooli&theme=default" alt="GitHub Streak"/>
+</p>
+
+---
 ### 📬 Connect with Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/gabriela-s-396a002b8)
