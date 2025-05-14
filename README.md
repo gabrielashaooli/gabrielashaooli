@@ -48,8 +48,6 @@ I'm always learning and building — from AR apps to machine learning models and
 
 ### 📈 Featured Projects
 
-### 📈 Featured Projects
-
 - 🧳 **Travel Web App**  
   Web platform for booking and managing trips, built with Java, PHP and MySQL.
 
@@ -70,5 +68,4 @@ I'm always learning and building — from AR apps to machine learning models and
 
 ---
 
-> _"I believe in the power of technology to transform lives — one line of code at a time."_
 
